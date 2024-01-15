@@ -2,6 +2,7 @@
   "name": "global-warming-app",
   "version": "0.1.0",
   "private": true,
+  
   "dependencies": {
     "@tanstack/react-query": "^4.3.4",
     "@testing-library/jest-dom": "^5.16.4",
