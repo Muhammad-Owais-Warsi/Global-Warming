@@ -10,7 +10,7 @@
 }
 
 .playButtonContainer {
-    color: #8675ff;
+    color: rgb(53,135,243);
     display: flex;
     align-items: flex-start;
     justify-content: center;
@@ -29,7 +29,7 @@
     position: absolute;
     width: 5rem;
     height: 5rem;
-    border: 0.55rem solid #adb5bd;
+    border: 0.55rem solid rgb(113, 164, 231);
     border-radius: 50%;
     animation: pulse-border 2s linear infinite;
 }

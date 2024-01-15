@@ -1,7 +1,7 @@
 .navButton {
     position: fixed;
     z-index: 999;
-    color: #8675ff;
+    color:rgb(53,135,243);
     font-size: 2rem;
     background: none;
     cursor: pointer;

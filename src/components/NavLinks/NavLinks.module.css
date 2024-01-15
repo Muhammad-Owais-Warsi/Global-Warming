@@ -16,7 +16,7 @@
 }
 
 .navItem:hover {
-    background-color: #8675ff;
+    background-color: rgb(53,135,243);
     color: #fff;
     border-radius: 5px;
 }

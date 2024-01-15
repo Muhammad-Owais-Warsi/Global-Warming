@@ -24,7 +24,7 @@
 
 .graphLink:hover {
     background-color: #fff !important;
-    color: #8675ff !important;
+    color: rgb(53,135,243) !important;
     box-shadow: 0px 0px 0px 2px #8675ff;
 }
 

@@ -1,5 +1,5 @@
 .link {
-    border: 2px solid #8675ff;
+    border: 2px solid rgb(53,135,243);
     letter-spacing: 0.05rem;
     font-weight: 400;
     padding: 10px 20px;
@@ -9,6 +9,7 @@
 
 .link:hover {
     color: #fff;
-    background-color: #8675ff;
+    border-color: white;
+    background-color: rgb(53,135,243);
     cursor: pointer;
 }
